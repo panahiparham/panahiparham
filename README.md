@@ -1,5 +1,3 @@
-<h1>Parham Mohammad Panahi</h1>
-
 M.Sc. student<br>
 <i>Department of Computing Science</i><br>
 <i>University of Alberta</i><br>
