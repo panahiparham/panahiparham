@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+Parham Mohammad Panahi
+
+parham1@ualberta.ca
+
+M.Sc. student of Computing Science at University of Alberta and RLAI lab, advised by Dr. Adam white.
+
+My research interests are in the area of machine learning and reinforcement learning. I am currently working on different ways models are used to improve sample efficiency in reinforcement learning.
+```
