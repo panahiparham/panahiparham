@@ -1,26 +1,8 @@
-### Hi there 👋
+<h1>Parham Mohammad Panahi</h1>
 
-<!--
-**panahiparham/panahiparham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student<br>
+<i>Department of Computing Science</i><br>
+<i>University of Alberta</i><br>
+[parham1@ualberta.ca](mailto:parham1@ualberta.ca)</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-```
-Parham Mohammad Panahi
-
-parham1@ualberta.ca
-
-M.Sc. student of Computing Science at University of Alberta and RLAI lab, advised by Dr. Adam white.
-
-My research interests are in the area of machine learning and reinforcement learning. I am currently working on different ways models are used to improve sample efficiency in reinforcement learning.
-```
+I am a graduate student of Computing Science at University of Alberta. I am advised by [Adam White](#), working in the [RLAI lab](#). Before that, I graduated with a B.Sc. in Computer Science from Azad University of Tehran in 2021.
